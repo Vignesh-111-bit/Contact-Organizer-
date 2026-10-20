@@ -1,0 +1,8 @@
+{
+  "name": "Remix gen11 Directory",
+  "description": "Company contact organizer and directory for gen11 with built-in database, search, and contact management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

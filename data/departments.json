@@ -1,0 +1,14 @@
+[
+  {
+    "id": "dept-1",
+    "name": "General",
+    "description": "General company operations and administration",
+    "color": "#4f46e5",
+    "createdAt": "2026-10-19T00:00:00.000Z"
+  },
+  {
+    "id": "dept-1792476600637-160",
+    "name": "Enterprise",
+    "color": "#4f46e5"
+  }
+]
